@@ -1,0 +1,67 @@
+
+body{
+  background-color: purple;
+}
+
+.newGame{
+  width: 300px;
+  height: 40px;
+  background-color: red;
+  margin-left: 208px;
+  margin-top: 72px;
+  font-size: 30px;
+}
+
+#root{
+text-align: center;
+}
+
+.krest{
+
+  height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    align-items: center;
+    margin-left: 206px;
+    margin-top: 24px;
+}
+
+.squares{
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  float: left;
+  box-sizing: border-box;
+  font-weight:bold;
+  font-size: 76px;
+  background-color: rgb(212, 209, 21);
+}
+
+.squares2{
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  float: left;
+  box-sizing: border-box;
+  font-weight:bold;
+  font-size: 76px;
+  background-color: rgb(247, 11, 62);
+}
+
+.squares3{
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  float: left;
+  box-sizing: border-box;
+  font-weight:bold;
+  font-size: 76px;
+  background-color: purple;
+  border-left-color: purple;
+  border-top-color: purple;
+}
+
+.new{
+  margin-top: 45px;
+  margin-left: -101px;
+}
